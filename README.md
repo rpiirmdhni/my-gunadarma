@@ -843,32 +843,32 @@ Install my-gunadarma using one of the following methods:
 
 1. Clone the my-gunadarma repository:
 ```sh
-❯ git clone https://github.com/rpiirmdhni/my-gunadarma
+git clone https://github.com/rpiirmdhni/my-gunadarma
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd my-gunadarma
+cd my-gunadarma
 ```
 
 3. Install the Composer dependencies:
 ```sh
-❯ composer install
+composer install
 ```
 
 4. Install the Node dependencies:
 ```sh
-❯ npm install
+npm install
 ```
 
 5. Setup Environment File:
 ```sh
-❯ cp .env.example .env
+cp .env.example .env
 ```
 
 6. Generate App Key:
 ```sh
-❯ php artisan key:generate
+php artisan key:generate
 ```
 
 7. Configure Database:
@@ -885,14 +885,14 @@ DB_PASSWORD=
 
 8. Migrate Database:
 ```sh
-❯ php artisan migrate
+php artisan migrate
 ```
 
 ### 🤖 Usage
 Run my-gunadarma using the following command:
 
 ```sh
-❯ php artisan serve
+php artisan serve
 ```
 
 ---
