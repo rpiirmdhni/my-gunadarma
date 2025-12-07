@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rpiirmdhni/my-gunadarma/refs/heads/main/public/img/MyGunadarma.png" align="center" width="80%">
+    <img src="https://raw.githubusercontent.com/rpiirmdhni/my-gunadarma/refs/heads/main/public/img/MyGunadarma.png" align="center" width="60%">
 </p>
 <p align="center"><h1 align="center">My Gunadarma</h1></p>
 <p align="center">
