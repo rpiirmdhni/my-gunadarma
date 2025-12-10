@@ -22,7 +22,7 @@
             </div>
             <x-text-input type="text" nameid="username" :label="__('NPM/NIDN/NIP')" required />
             @if (session('error'))
-                <p class="text-sm text-red-600">{{ session('error') }} Woi</p>
+                <p class="text-sm text-red-600">{{ session('error') }}</p>
             @endif
             <hr class="w-full h-px border-gray-400" />
             <x-text-input type="password_confirmation" :label="__('Kata Sandi')" required />
