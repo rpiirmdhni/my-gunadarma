@@ -948,7 +948,7 @@ This project is protected under the [MIT](https://choosealicense.com/licenses/mi
 
 ## 🙌 Acknowledgments
 
-- Thank you to all members of Team 4 for the course “Konsep Sistem dan Teknologi Sistem Informasi (KSTSI) C,” including:
+- Thank you to all members of Team 4 for the course “Konsep Sistem dan Teknologi Sistem Informasi (KSTSI) C”, including:
 1. DESKA BINTANG EKA HARPUTRA (UI/UX Designer)
 2. MUHAMMAD ZIDANE FEBRIAN (Frontend Developer)
 3. NADIA PUTRI SALSABILA (Frontend Developer)
